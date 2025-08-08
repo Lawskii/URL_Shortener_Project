@@ -1,8 +1,9 @@
+
 #  Flask URL Shortener
 
 This is a simple, elegant URL shortener built with **Flask**, designed as an internship project. It allows users to shorten long URLs and get a unique short link that redirects to the original page.
 
-> Clean UI •  Functional Backend • Built in Python + Flask
+ Clean UI •  Functional Backend • Built in Python + Flask
 
 ---
 
@@ -35,5 +36,6 @@ This is a simple, elegant URL shortener built with **Flask**, designed as an int
 | Database     | SQLite         |
 
 ---
+
 
 
